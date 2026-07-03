@@ -1,0 +1,6 @@
+{
+  "name": "Sambung Kata",
+  "description": "Game edukasi sambung kata interaktif untuk anak SD kelas 1 dan 2 dengan hewan lucu serta tingkat kesulitan bertahap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
